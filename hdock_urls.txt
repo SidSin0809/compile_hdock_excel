@@ -1,0 +1,5 @@
+6PB0-CRH	http://hdock.phys.hust.edu.cn/data/xxxxxxxxxxxxx/
+6WZG-Secretin	http://hdock.phys.hust.edu.cn/data/xxxxxxxxxxxxx/
+6X18-GLP1	http://hdock.phys.hust.edu.cn/data/xxxxxxxxxxxxx/
+7D68-GLP2	http://hdock.phys.hust.edu.cn/data/xxxxxxxxxxxxx/
+7L1U-OrexinA	http://hdock.phys.hust.edu.cn/data/xxxxxxxxxxxxx/
