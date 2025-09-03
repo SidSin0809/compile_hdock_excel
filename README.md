@@ -73,3 +73,4 @@ Empty workbook
 
 All jobs failed to parse—run with one URL first for diagnostics.
 
+[![DOI](https://zenodo.org/badge/994095810.svg)](https://doi.org/10.5281/zenodo.17038546)
